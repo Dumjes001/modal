@@ -10,7 +10,7 @@ function App () {
     return (
         <div>
             <main>
-                <Modal />
+                <Modal open={true}>Hello</Modal>
             </main>
         </div>
     )
